@@ -30,6 +30,11 @@
 
 ---
 
+## 🎬 Demo
+
+![Demo](assets/demo.gif)
+
+
 ## The Problem We're Solving
 
 > Millions of students in low-resource regions access online education through 2G/3G networks on aging mobile devices. Cloud-based prediction systems fail them — either through unacceptable latency or complete unavailability during connectivity outages.
@@ -140,6 +145,16 @@ The accuracy gains come from here. This pipeline was designed specifically for e
 ```
 
 **Key insight from feature importance analysis:** Financial condition (importance = 0.122), load-shedding (0.041), and Self LMS access (0.039) are the top three predictors — all infrastructure or socioeconomic factors, not behavioral ones. Institution type scores 0.000 after controlling for financial variables.
+
+## 📸 Screenshots
+
+| Prediction | Batch Processing |
+|-----------|----------------|
+| ![](assets/prediction.png) | ![](assets/batch.png) |
+
+| Model Insights | Edge Simulator |
+|---------------|---------------|
+| ![](assets/insights.png) | ![](assets/edge_simulator.png) |
 
 ---
 
