@@ -382,8 +382,14 @@ This repository accompanies the IEEE conference paper:
 
 **"Edge-Deployable Student Adaptability Prediction via Optimized Gaussian Naive Bayes with Resource-Aware Feature Engineering"**
 
-*Tanvi Singh, Soumyadip Maiti, Aswathy K Cherian*
+*Tanvi Singh, Soumyadip Maiti, Aswathy K Cherian*  
 Department of Computing Technologies, SRM Institute of Science and Technology, Chennai, India
+
+📌 Status: *Accepted / Under Review (to appear in IEEE Xplore)*
+
+📩 **Paper available upon request**
+
+---
 
 Key contributions from the paper:
 1. Resource-aware preprocessing pipeline with a verified +18 percentage-point accuracy gain over unoptimized baselines
