@@ -1,0 +1,36 @@
+[
+  {
+    "dataset": "Bangladesh (Primary, n=1205)",
+    "n_samples": 1205,
+    "n_features": 13,
+    "gnb_accuracy": 86.31,
+    "gnb_bal_acc": 61.53,
+    "gnb_macro_f1": 66.93,
+    "gnb_weighted_f1": 85.0,
+    "gnb_cv_mean": 83.81,
+    "gnb_cv_std": 1.5,
+    "gnb_train_s": 0.002015,
+    "gnb_inf_ms": 0.1258,
+    "ann_accuracy": 83.82,
+    "ann_weighted_f1": 78.56,
+    "ann_train_s": 0.1338,
+    "ann_inf_ms": 0.1248
+  },
+  {
+    "dataset": "Jordan/Kuwait \u2014 xAPI (n=480)",
+    "n_samples": 480,
+    "n_features": 15,
+    "gnb_accuracy": 61.46,
+    "gnb_bal_acc": 63.64,
+    "gnb_macro_f1": 62.56,
+    "gnb_weighted_f1": 60.89,
+    "gnb_cv_mean": 69.17,
+    "gnb_cv_std": 5.34,
+    "gnb_train_s": 0.000675,
+    "gnb_inf_ms": 0.0984,
+    "ann_accuracy": 67.71,
+    "ann_weighted_f1": 66.99,
+    "ann_train_s": 0.096,
+    "ann_inf_ms": 0.1225
+  }
+]
