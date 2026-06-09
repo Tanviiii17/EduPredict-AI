@@ -43,7 +43,7 @@
 
 **EduPredict AI** takes a fundamentally different approach: inference runs at the edge, directly on tablets, phones, or institutional gateway nodes. No round-trip to a server. No dependency on internet uptime.
 
-What makes this work isn't a larger model — it's smarter preprocessing. An 18-percentage-point accuracy gain over prior baselines came entirely from better data engineering, not algorithmic complexity. This is the core thesis of the accompanying IEEE paper.
+What makes this work isn't a larger model — it's smarter preprocessing. An 18-percentage-point accuracy gain over prior baselines came entirely from better data engineering, not algorithmic complexity. This is the core thesis of the accompanying IEEE paper
 
 ---
 
